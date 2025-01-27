@@ -157,8 +157,7 @@
         "price_per_day": "Rs 22k",
         "image_url": [
             "https://rentcar-json.vercel.app/images/toyota-corolla-altis-grande-1.webp",
-            "https://rentcar-json.vercel.app/images/toyota-corolla-altis-grande-2.webp",
-            "https://rentcar-json.vercel.app/images/toyota-corolla-altis-grande-3.webp"
+            "https://rentcar-json.vercel.app/images/toyota-corolla-altis-grande-2.webp"
         ],
         "tags": [
             "luxury",
@@ -175,9 +174,9 @@
         "seating_capacity": "7 People",
         "price_per_day": "Rs 14k",
         "image_url": [
-            "https://rentcar-json.vercel.app/images/honda-brv-i-vtec-1.webp",
-            "https://rentcar-json.vercel.app/images/honda-brv-i-vtec-2.webp",
-            "https://rentcar-json.vercel.app/images/honda-brv-i-vtec-3.webp"
+            "https://rentcar-json.vercel.app/images/honda-br-v-1.webp",
+            "https://rentcar-json.vercel.app/images/honda-br-v-2.webp",
+            "https://rentcar-json.vercel.app/images/honda-br-v-3.webp"
         ],
         "tags": [
             "popular"
