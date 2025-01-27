@@ -7,7 +7,10 @@
         "transmission": "Manual",
         "seating_capacity": "4 People",
         "price_per_day": "Rs 8k",
-        "image_url": "https://rentcar-json.vercel.app/images/suzuki-alto-vx-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/suzuki-alto-vx-1.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-alto-vx-2.webp"
+        ],
         "tags": [
             "popular"
         ],
@@ -21,7 +24,11 @@
         "transmission": "Manual",
         "seating_capacity": "4 People",
         "price_per_day": "Rs 9k",
-        "image_url": "https://rentcar-json.vercel.app/images/suzuki-alto-vxr-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/suzuki-alto-vxr-1.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-alto-vxr-2.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-alto-vxr-3.webp"
+        ],
         "tags": [
             "recommended"
         ],
@@ -36,7 +43,11 @@
         "seating_capacity": "7 People",
         "price_per_day": "Rs 12k",
         "original_price": "Rs 14k",
-        "image_url": "https://rentcar-json.vercel.app/images/suzuki-every-vx-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/suzuki-every-vx-1.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-every-vx-2.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-every-vx-3.webp"
+        ],
         "tags": [
             "popular"
         ],
@@ -51,7 +62,11 @@
         "seating_capacity": "5 People",
         "price_per_day": "Rs 11k",
         "original_price": "Rs 13k",
-        "image_url": "https://rentcar-json.vercel.app/images/suzuki-cultus-vxr-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/suzuki-cultus-vxr-1.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-cultus-vxr-2.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-cultus-vxr-3.webp"
+        ],
         "tags": [
             "recommended"
         ],
@@ -65,7 +80,11 @@
         "transmission": "Manual",
         "seating_capacity": "5 People",
         "price_per_day": "Rs 10k",
-        "image_url": "https://rentcar-json.vercel.app/images/suzuki-wagon-r-vxr-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/suzuki-wagon-r-vxr-1.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-wagon-r-vxr-2.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-wagon-r-vxr-3.webp"
+        ],
         "tags": [
             "recommended"
         ],
@@ -80,7 +99,11 @@
         "seating_capacity": "5 People",
         "price_per_day": "Rs 13k",
         "original_price": "Rs 16k",
-        "image_url": "https://rentcar-json.vercel.app/images/suzuki-swift-gl-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/suzuki-swift-gl-1.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-swift-gl-2.webp",
+            "https://rentcar-json.vercel.app/images/suzuki-swift-gl-3.webp"
+        ],
         "tags": [
             "recommended"
         ],
@@ -95,7 +118,11 @@
         "seating_capacity": "5 People",
         "price_per_day": "Rs 20k",
         "original_price": "Rs 35k",
-        "image_url": "https://rentcar-json.vercel.app/images/honda-civic-oriel-1-8-i-vtec-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/honda-civic-oriel-1-8-i-vtec-1.webp",
+            "https://rentcar-json.vercel.app/images/honda-civic-oriel-1-8-i-vtec-2.webp",
+            "https://rentcar-json.vercel.app/images/honda-civic-oriel-1-8-i-vtec-3.webp"
+        ],
         "tags": [
             "luxury",
             "popular"
@@ -110,7 +137,11 @@
         "transmission": "Automatic",
         "seating_capacity": "5 People",
         "price_per_day": "Rs 18k",
-        "image_url": "https://rentcar-json.vercel.app/images/honda-city-aspire-1-3-i-vtec-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/honda-city-aspire-1-3-i-vtec-1.webp",
+            "https://rentcar-json.vercel.app/images/honda-city-aspire-1-3-i-vtec-2.webp",
+            "https://rentcar-json.vercel.app/images/honda-city-aspire-1-3-i-vtec-3.webp"
+        ],
         "tags": [
             "recommended"
         ],
@@ -124,7 +155,11 @@
         "transmission": "Automatic",
         "seating_capacity": "5 People",
         "price_per_day": "Rs 22k",
-        "image_url": "https://rentcar-json.vercel.app/images/toyota-corolla-altis-grande-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/toyota-corolla-altis-grande-1.webp",
+            "https://rentcar-json.vercel.app/images/toyota-corolla-altis-grande-2.webp",
+            "https://rentcar-json.vercel.app/images/toyota-corolla-altis-grande-3.webp"
+        ],
         "tags": [
             "luxury",
             "recommended"
@@ -139,11 +174,15 @@
         "transmission": "Manual",
         "seating_capacity": "7 People",
         "price_per_day": "Rs 14k",
-        "image_url": "https://rentcar-json.vercel.app/images/honda-br-v-1.webp",
-        "tags": [
-            "recommended"
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/honda-brv-i-vtec-1.webp",
+            "https://rentcar-json.vercel.app/images/honda-brv-i-vtec-2.webp",
+            "https://rentcar-json.vercel.app/images/honda-brv-i-vtec-3.webp"
         ],
-        "description": "The Honda BR-V i-VTEC is a spacious and stylish SUV with a 7-seater capacity, making it perfect for family trips and long drives. Its manual transmission and reliable engine ensure a smooth and efficient driving experience."
+        "tags": [
+            "popular"
+        ],
+        "description": "The Honda BR-V i-VTEC is a versatile SUV that combines functionality with comfort. Its 7-seater capacity and manual transmission make it a practical choice for family trips and adventures."
     },
     {
         "id": "11",
@@ -154,7 +193,11 @@
         "seating_capacity": "7 People",
         "price_per_day": "Rs 35k",
         "original_price": "Rs 40k",
-        "image_url": "https://rentcar-json.vercel.app/images/toyota-fortuner-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/toyota-fortuner-1.webp",
+            "https://rentcar-json.vercel.app/images/toyota-fortuner-2.webp",
+            "https://rentcar-json.vercel.app/images/toyota-fortuner-3.webp"
+        ],
         "tags": [
             "recommended",
             "luxury"
@@ -169,11 +212,14 @@
         "transmission": "Automatic",
         "seating_capacity": "5 People",
         "price_per_day": "Rs 8.5k",
-        "image_url": "https://rentcar-json.vercel.app/images/kia-picanto-1.webp",
+        "image_url": [
+            "https://rentcar-json.vercel.app/images/kia-picanto-1.webp",
+            "https://rentcar-json.vercel.app/images/kia-picanto-2.webp",
+            "https://rentcar-json.vercel.app/images/kia-picanto-3.webp"
+        ],
         "tags": [
             "popular"
         ],
         "description": "The Kia Picanto is a compact hatchback offering a fun and efficient driving experience. With its automatic transmission and stylish design, it’s ideal for city driving while maintaining excellent fuel economy."
-    }
-  ]
-  
+    }    
+]
